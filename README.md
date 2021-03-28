@@ -1,6 +1,6 @@
 # Awesome Tech Job Hunting List
 
-A collection of awesome places to job hunt for people in tech 
+A collection of awesome places to job hunt for people in tech. Compiled resources for developers 
 
 ## Popular Sites to Job Hunt
 * AngelList - https://angel.co
@@ -45,8 +45,10 @@ A collection of awesome places to job hunt for people in tech
 * JavaScript job XYZ: http://javascriptjob.xyz
 * Javascript remotely: http://jsremotely.com
 
-## iOS Job Postings
+## Mobile Job Postings
 * iOS dev jobs: http://iosdevjobs.com
+* Android Jobs - https://www.androidjobs.io/
+* ios - http://jobs.coreint.org/
 
 ## React
 * React Job Board: http://reactjobboard.com
@@ -69,8 +71,14 @@ A collection of awesome places to job hunt for people in tech
 * Tech Ladies - https://hiretechladies.com
 * PowerToFly - https://powertofly.com/jobs/
 
-## Freelancing
+## Ruby on Rails Jobs
+* RubyNow: https://jobs.rubynow.com/
 
+## Wordpress
+* WP - https://jobs.wordpress.net/
+* WP hired - https://www.wphired.com/
+
+## Freelancing Jobs
 * Freelancer: http://freelancer.com/jobs
 * Upwork: http://upwork.com
 * FlexJobs: http://flexjobs.com/jobs
