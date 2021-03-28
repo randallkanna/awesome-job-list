@@ -85,6 +85,8 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * FreelancerMap: http://freelancermap.com
 * http://Gun.io: http://gun.io
 * Guru: http://guru.com/d/jobs
+* PeoplePerHour: https://www.peopleperhour.com
+* Pilot: https://pilot.co
 
 ## Misc
 * Muse: http://themuse.com/jobs
