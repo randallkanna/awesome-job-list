@@ -58,6 +58,8 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 
 ## Ember
 * Ember: http://jobs.emberjs.com
+* EmberJs: https://discuss.emberjs.com/c/job-postings/9
+* Emberwork: https://emberwork.com/offers
 
 ## Python
 * Python Jobs - http://python.org/jobs
