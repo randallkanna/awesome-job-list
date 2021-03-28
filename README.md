@@ -89,6 +89,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Guru: http://guru.com/d/jobs
 * PeoplePerHour: https://www.peopleperhour.com
 * Pilot: https://pilot.co
+* Fiverr: https://www.fiverr.com
 
 ## Misc
 * Muse: http://themuse.com/jobs
