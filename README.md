@@ -33,6 +33,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Remote Talent: http://remotetalent.co/jobs JustRemote: https://justremote.co/remote-developer-jobs…
 * RemoteLeaf – https://remoteleaf.com
 * Sitepoint – https://sitepoint.com/jobs/
+* RemoteSome – https://www.remotesome.com/
 
 ## Startups
 * AngelList: http://angel.co/jobs
