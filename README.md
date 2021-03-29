@@ -38,6 +38,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * AngelList: http://angel.co/jobs
 * Product Hunt: http://producthunt.com/jobs
 * Startup Hire: http://startuphire.com
+* Startup Jobs: https://startup.jobs
 * Startupers: http://startupers.com
 * YCombinator: http://news.ycombinator.com/jobs
 
