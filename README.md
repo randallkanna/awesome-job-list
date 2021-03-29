@@ -108,3 +108,4 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Jobspresso: http://jobspresso.co
 * Jobs in Europe: http://landing.jobs
 *  TripleByte: https://triplebyte.com
+*  Profunctor: https://profunctor.io
