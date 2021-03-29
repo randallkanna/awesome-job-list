@@ -57,6 +57,9 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 ## Vue
 * Vue Jobs - http://vuejobs.com
 
+## Laravel
+* Laravel Jobs - https://larajobs.com
+
 ## Ember
 * Ember: http://jobs.emberjs.com
 * EmberJs: https://discuss.emberjs.com/c/job-postings/9
