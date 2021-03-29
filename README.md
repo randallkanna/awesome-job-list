@@ -15,7 +15,6 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Simply Hired: http://simplyhired.com
 * Toptal: https://toptal.com
 * Hired - https://hired.com
-* Built in LA - https://www.builtinla.com/
 
 ## Remote Sites
 * Stackoverflow: http://stackoverflow.com/jobs/remote-developer-jobs
@@ -104,4 +103,5 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Authentic jobs: http://authenticjobs.com
 * Jobspresso: http://jobspresso.co
 * Jobs in Europe: http://landing.jobs
-*  TripleByte: https://triplebyte.com
+* TripleByte: https://triplebyte.com
+* Built in LA - https://www.builtinla.com/
