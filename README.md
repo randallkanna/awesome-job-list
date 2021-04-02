@@ -91,11 +91,12 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Upwork: http://upwork.com
 * FlexJobs: http://flexjobs.com/jobs
 * FreelancerMap: http://freelancermap.com
-* http://Gun.io: http://gun.io
+* Gun.io: http://gun.io
 * Guru: http://guru.com/d/jobs
 * PeoplePerHour: https://www.peopleperhour.com
 * Pilot: https://pilot.co
 * Scalable Path https://www.scalablepath.com/
+* Workana: https://www.workana.com/
 
 ## Misc
 * Muse: http://themuse.com/jobs
