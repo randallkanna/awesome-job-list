@@ -1,6 +1,6 @@
 # Awesome Tech Job Hunting List
 
-A collection of awesome places to job hunt for people in tech. Compiled resources for developers 
+A collection of awesome places to job hunt for people in tech. Compiled resources for developers
 
 ## Popular Sites to Job Hunt
 * AngelList - https://angel.co
@@ -110,3 +110,4 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Jobspresso: http://jobspresso.co
 * Jobs in Europe: http://landing.jobs
 *  TripleByte: https://triplebyte.com
+* SwissDev Jobs: https://swissdevjobs.ch
