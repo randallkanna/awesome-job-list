@@ -72,6 +72,11 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 ## Python
 * Python Jobs - http://python.org/jobs
 
+## Golang
+* Golang Cafe - https://golang.cafe
+* Golang Projects - https://golangprojects.com
+* We Love Golang - https://welovegolang.com
+
 ## Junior Dev Jobs
 * JrDevJobs: http://jrdevjobs.com
 * Stackoverflow Junior jobs: https://stackoverflow.com/jobs/junior-developer-jobs
