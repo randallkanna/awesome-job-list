@@ -15,6 +15,8 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Simply Hired: http://simplyhired.com
 * Toptal: https://toptal.com
 * Hired - https://hired.com
+* The Ladders - https://www.theladders.com/
+* CrunchBoard - https://www.crunchboard.com/jobs
 
 ## Remote Sites
 * Stackoverflow: http://stackoverflow.com/jobs/remote-developer-jobs
