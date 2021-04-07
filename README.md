@@ -1,6 +1,6 @@
 # Awesome Tech Job Hunting List
 
-A collection of awesome places to job hunt for people in tech. Compiled resources for developers 
+A collection of awesome places to job hunt for people in tech. Compiled resources for developers
 
 ## Popular Sites to Job Hunt
 * AngelList - https://angel.co
@@ -15,6 +15,8 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Simply Hired: http://simplyhired.com
 * Toptal: https://toptal.com
 * Hired - https://hired.com
+* The Ladders - https://www.theladders.com/
+* CrunchBoard - https://www.crunchboard.com/jobs
 
 ## Remote Sites
 * Stackoverflow: http://stackoverflow.com/jobs/remote-developer-jobs
@@ -33,6 +35,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Remote Talent: http://remotetalent.co/jobs JustRemote: https://justremote.co/remote-developer-jobs…
 * RemoteLeaf – https://remoteleaf.com
 * Sitepoint – https://sitepoint.com/jobs/
+* JsJobbs – https://jsjobbs.com/remote-javascript-jobs/
 
 ## Startups
 * AngelList: http://angel.co/jobs
@@ -45,6 +48,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 ## JavaScript
 * JavaScript job XYZ: http://javascriptjob.xyz
 * Javascript remotely: http://jsremotely.com
+* JsJobbs: https://jsjobbs.com
 
 ## Mobile Job Postings
 * iOS dev jobs: http://iosdevjobs.com
@@ -67,6 +71,11 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 
 ## Python
 * Python Jobs - http://python.org/jobs
+
+## Golang
+* Golang Cafe - https://golang.cafe
+* Golang Projects - https://golangprojects.com
+* We Love Golang - https://welovegolang.com
 
 ## Junior Dev Jobs
 * JrDevJobs: http://jrdevjobs.com
@@ -94,6 +103,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * PeoplePerHour: https://www.peopleperhour.com
 * Pilot: https://pilot.co
 * Scalable Path https://www.scalablepath.com/
+* Malt: https://www.malt.fr/
 
 ## Misc
 * Muse: http://themuse.com/jobs
@@ -107,5 +117,6 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Authentic jobs: http://authenticjobs.com
 * Jobspresso: http://jobspresso.co
 * Jobs in Europe: http://landing.jobs
-*  TripleByte: https://triplebyte.com
-*  Profunctor: https://profunctor.io
+* TripleByte: https://triplebyte.com
+* Profunctor: https://profunctor.io
+* SwissDev Jobs: https://swissdevjobs.ch
