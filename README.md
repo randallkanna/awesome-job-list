@@ -22,17 +22,19 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Stackoverflow: http://stackoverflow.com/jobs/remote-developer-jobs
 * FlexJobs: http://flexjobs.com
 * WeWorkRemotely: http://weworkremotely.com
-* RemoteOk: http://remoteok.io/remote-dev-jobs Stackoverflow: http://stackoverflow.com/jobs/remote-developer-jobs…
-* Working Nomads: http://workingnomads.co/remote-development-jobs…
+* RemoteOk: http://remoteok.io/remote-dev-jobs 
+* Working Nomads: http://workingnomads.co/remote-development-jobs
 * Remote.co – https://remote.co/remote-jobs/developer/
-* Remoters: http://remoters.net/jobs/software-development…
+* Remoters: http://remoters.net/jobs/software-development
 * JS Remotely: http://jsremotely.com
-* Front-end remote: http://frontendremotejobs.com IWantRemote: http://iwantremote.com
+* Front-end remote: http://frontendremotejobs.com 
+* IWantRemote: http://iwantremote.com
 * DailyRemote – https://dailyremote.com
 * Remotive: https://remotive.io/remote-jobs/software-dev
-* Outsourcely: http://outsourcely.com/remote-web-development-jobs…
-* Pangian: https://pangian.com/job-travel-remote/…
-* Remote Talent: http://remotetalent.co/jobs JustRemote: https://justremote.co/remote-developer-jobs…
+* Outsourcely: http://outsourcely.com/remote-web-development-jobs
+* Pangian: https://pangian.com/job-travel-remote
+* Remote Talent: http://remotetalent.co/jobs 
+* JustRemote: https://justremote.co/remote-developer-jobs
 * RemoteLeaf – https://remoteleaf.com
 * Sitepoint – https://sitepoint.com/jobs/
 * JsJobbs – https://jsjobbs.com/remote-javascript-jobs/
