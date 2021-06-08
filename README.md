@@ -38,6 +38,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * RemoteLeaf – https://remoteleaf.com
 * Sitepoint – https://sitepoint.com/jobs/
 * JsJobbs – https://jsjobbs.com/remote-javascript-jobs/
+* Remotesome - https://www.remotesome.com/
 
 ## Startups
 * AngelList: http://angel.co/jobs
