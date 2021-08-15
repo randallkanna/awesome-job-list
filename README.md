@@ -28,7 +28,6 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Remoters: http://remoters.net/jobs/software-development
 * JS Remotely: http://jsremotely.com
 * Front-end remote: http://frontendremotejobs.com 
-* IWantRemote: http://iwantremote.com
 * DailyRemote – https://dailyremote.com
 * Remotive: https://remotive.io/remote-jobs/software-dev
 * Outsourcely: http://outsourcely.com/remote-web-development-jobs
