@@ -17,10 +17,10 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * CrunchBoard: https://www.crunchboard.com/jobs
 
 ## Remote Sites
+* RemoteOk: http://remoteok.io/
 * Stackoverflow: http://stackoverflow.com/jobs/remote-developer-jobs
 * FlexJobs: http://flexjobs.com
 * WeWorkRemotely: http://weworkremotely.com
-* RemoteOk: http://remoteok.io/remote-dev-jobs
 * Working Nomads: http://workingnomads.co/remote-development-jobs
 * Remote.co: https://remote.co/remote-jobs/developer/
 * Remoters: http://remoters.net/jobs/software-development
