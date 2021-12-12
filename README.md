@@ -56,6 +56,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 
 ## React
 * React Job Board: http://reactjobboard.com
+* React Jobs: https://reactjsjob.com
 
 ## Vue
 * Vue Jobs: http://vuejobs.com
