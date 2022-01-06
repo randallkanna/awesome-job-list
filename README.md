@@ -43,6 +43,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Startup Jobs: https://startup.jobs
 * Startupers: http://startupers.com
 * YCombinator: http://news.ycombinator.com/jobs
+* Startup Gourmet: http://www.startupgourmet.com
 
 ## JavaScript
 * JavaScript job XYZ: http://javascriptjob.xyz
@@ -86,6 +87,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Women Who Code: http://womenwhocode.com/jobs
 * Tech Ladies: https://hiretechladies.com
 * PowerToFly: https://powertofly.com/jobs/
+* Women in Voice: https://www.womeninvoicejobs.org/jobs/
 
 ## Ruby on Rails Jobs
 * RubyNow: https://jobs.rubynow.com/
