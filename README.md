@@ -52,7 +52,6 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 ## Mobile Job Postings
 * iOS dev jobs: http://iosdevjobs.com
 * Android Jobs: https://www.androidjobs.io/
-* ios: http://jobs.coreint.org/
 
 ## React
 * React Job Board: http://reactjobboard.com
