@@ -112,7 +112,6 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Krop: http://krop.com
 * PowerToFly: http://powertofly.com/jobs
 * Developers for Hire: http://developersforhire.com
-* Codepen job board: https://codepen.io/jobs
 * Joblist.app: http://joblist.app
 * Fullstack Job: http://fullstackjob.com
 * Authentic jobs: http://authenticjobs.com
