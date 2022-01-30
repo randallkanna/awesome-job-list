@@ -1,5 +1,7 @@
 # Awesome Tech Job Hunting List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Due to too much spam, I no longer accept contributions to this board. Please do not create a pull request as I will close it.
+
 A collection of awesome places to job hunt for people in tech. Compiled resources for developers
 
 ## Popular Sites to Job Hunt
