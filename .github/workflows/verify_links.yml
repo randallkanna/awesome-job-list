@@ -1,0 +1,32 @@
+name: 🤖 Verify links
+
+on:
+  push:
+    branches: [ '*' ]
+  pull_request:
+    branches: [ '*' ]
+
+jobs:
+  verify_links:
+    name: 🤖 Verify links
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: ⬇ Checkout
+        uses: actions/checkout@v2
+
+      - name: 🔧 Set up Ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6.x
+
+      - name: 🔧 Install dependencies
+        run: |
+          gem install awesome_bot
+      - name: 🤖 Run Awesome Bot
+        run: awesome_bot README.md --allow-redirect --white-list awesome.re,angel.co,malt.fr
+      - uses: actions/upload-artifact@v1
+        if: failure()
+        with:
+          name: ab-results
+          path: ab-results-README.md-filtered.json

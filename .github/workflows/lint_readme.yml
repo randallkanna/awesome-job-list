@@ -1,0 +1,23 @@
+name: 🚨 README Linter
+
+on:
+  push:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'README.md'
+
+jobs:
+  awesome_lint:
+    name: ✅ Lint README file
+    runs-on: ubuntu-latest
+    continue-on-error: true
+
+    steps:
+      - name: ⬇ Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: 🔧 README.md
+        run: npx awesome-lint README.md
