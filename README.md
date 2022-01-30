@@ -64,7 +64,6 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Laravel Jobs: https://larajobs.com
 
 ## Ember
-* Ember: http://jobs.emberjs.com
 * EmberJs: https://discuss.emberjs.com/c/job-postings/9
 * Emberwork: https://emberwork.com/offers
 
