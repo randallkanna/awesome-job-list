@@ -13,16 +13,16 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Simply Hired: http://simplyhired.com
 * Toptal: https://toptal.com
 * Hired: https://hired.com
-* The Ladders: https://www.theladders.com/
+* The Ladders: https://www.theladders.com
 * CrunchBoard: https://www.crunchboard.com/jobs
 
 ## Remote Sites
-* RemoteOk: http://remoteok.io/
+* RemoteOk: http://remoteok.io
 * Stackoverflow: http://stackoverflow.com/jobs/remote-developer-jobs
 * FlexJobs: http://flexjobs.com
 * WeWorkRemotely: http://weworkremotely.com
 * Working Nomads: http://workingnomads.co/remote-development-jobs
-* Remote.co: https://remote.co/remote-jobs/developer/
+* Remote.co: https://remote.co/remote-jobs/developer
 * Remoters: http://remoters.net/jobs/software-development
 * JS Remotely: http://jsremotely.com
 * Front-end remote: http://frontendremotejobs.com
@@ -33,8 +33,8 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Remote Talent: http://remotetalent.co/jobs
 * JustRemote: https://justremote.co/remote-developer-jobs
 * RemoteLeaf: https://remoteleaf.com
-* Sitepoint: https://sitepoint.com/jobs/
-* JsJobbs: https://jsjobbs.com/remote-javascript-jobs/
+* Sitepoint: https://sitepoint.com/jobs
+* JsJobbs: https://jsjobbs.com/remote-javascript-jobs
 
 ## Startups
 * AngelList: http://angel.co/jobs
@@ -51,7 +51,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 
 ## Mobile Job Postings
 * iOS dev jobs: http://iosdevjobs.com
-* Android Jobs: https://www.androidjobs.io/
+* Android Jobs: https://www.androidjobs.io
 
 ## React
 * React Job Board: http://reactjobboard.com
@@ -85,14 +85,14 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 ## Women focused job boards!
 * Women Who Code: http://womenwhocode.com/jobs
 * Tech Ladies: https://hiretechladies.com
-* PowerToFly: https://powertofly.com/jobs/
+* PowerToFly: https://powertofly.com/jobs
 
 ## Ruby on Rails Jobs
-* RubyNow: https://jobs.rubynow.com/
+* RubyNow: https://jobs.rubynow.com
 
 ## Wordpress
-* WP: https://jobs.wordpress.net/
-* WP hired: https://www.wphired.com/
+* WP: https://jobs.wordpress.net
+* WP hired: https://www.wphired.com
 
 ## Freelancing Jobs
 * Freelancer: http://freelancer.com/jobs
@@ -103,8 +103,8 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Guru: http://guru.com/d/jobs
 * PeoplePerHour: https://www.peopleperhour.com
 * Pilot: https://pilot.co
-* Scalable Path https://www.scalablepath.com/
-* Malt: https://www.malt.fr/
+* Scalable Path: https://www.scalablepath.com
+* Malt: https://www.malt.fr
 
 ## Misc
 * Muse: http://themuse.com/jobs
