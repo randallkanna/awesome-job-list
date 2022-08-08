@@ -20,7 +20,6 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 
 ## Remote Sites
 * RemoteOk: http://remoteok.io/
-* Stackoverflow: http://stackoverflow.com/jobs/remote-developer-jobs
 * FlexJobs: http://flexjobs.com
 * WeWorkRemotely: http://weworkremotely.com
 * Working Nomads: http://workingnomads.co/remote-development-jobs
