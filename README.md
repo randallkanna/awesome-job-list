@@ -50,6 +50,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * JavaScript job XYZ: http://javascriptjob.xyz
 * Javascript remotely: http://jsremotely.com
 * JsJobbs: https://jsjobbs.com
+* Jobs in JS: https://jobsinjs.com
 
 ## Mobile Job Postings
 * iOS dev jobs: http://iosdevjobs.com
