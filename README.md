@@ -72,6 +72,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 ## Python
 * Python Jobs: http://python.org/jobs
 * Python Developer Jobs: http://pythonjob.xyz
+* PythonDevs - https://www.pythondevs.net
 
 ## Golang
 * Golang Cafe: https://golang.cafe
