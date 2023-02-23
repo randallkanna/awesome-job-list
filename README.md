@@ -31,10 +31,8 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Remotive: https://remotive.io/remote-jobs/software-dev
 * Outsourcely: http://outsourcely.com/remote-web-development-jobs
 * Pangian: https://pangian.com/job-travel-remote
-* Remote Talent: http://remotetalent.co/jobs
 * JustRemote: https://justremote.co/remote-developer-jobs
 * RemoteLeaf: https://remoteleaf.com
-* Sitepoint: https://sitepoint.com/jobs/
 * JsJobbs: https://jsjobbs.com/remote-javascript-jobs/
 
 ## Startups
