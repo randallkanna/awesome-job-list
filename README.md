@@ -111,6 +111,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Developers for Hire: http://developersforhire.com
 * Joblist.app: http://joblist.app
 * Fullstack Job: http://fullstackjob.com
+* Frontend careers: http://frontendcareers.com
 * Authentic jobs: http://authenticjobs.com
 * Jobspresso: http://jobspresso.co
 * Jobs in Europe: http://landing.jobs
