@@ -87,6 +87,9 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 ## Ruby on Rails Jobs
 * RubyNow: https://jobs.rubynow.com/
 
+## Rust Jobs
+* Rust Jobs: https://rustjob.xyz
+
 ## Wordpress
 * WP: https://jobs.wordpress.net/
 * WP hired: https://www.wphired.com/
