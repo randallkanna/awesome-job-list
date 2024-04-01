@@ -102,6 +102,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Pilot: https://pilot.co
 * Scalable Path https://www.scalablepath.com/
 * Malt: https://www.malt.fr/
+* Bing Pros: https://www.bing.com/pros/onboarding?utmsource=fbrep&mkt=en-us
 
 ## Misc
 * Muse: http://themuse.com/jobs
