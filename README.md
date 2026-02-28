@@ -26,6 +26,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * JS Remotely: http://jsremotely.com
 * Front-end remote: http://frontendremotejobs.com
 * DailyRemote: https://dailyremote.com
+* 4DayJob: https://4dayjob.com — 4-day work week and reduced-hour jobs across all industries
 * Remotive: https://remotive.io/remote-jobs/software-dev
 * Outsourcely: http://outsourcely.com/remote-web-development-jobs
 * Pangian: https://pangian.com/job-travel-remote
