@@ -75,6 +75,9 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * We Love Golang: https://welovegolang.com
 * Golang Developer Jobs: https://golangjob.xyz
 
+## AI / Machine Learning
+* AI Dev Jobs: https://aidevboard.com
+
 ## Junior Dev Jobs
 * JrDevJobs: http://jrdevjobs.com
 * Stackoverflow Junior jobs: https://stackoverflow.com/jobs/junior-developer-jobs
