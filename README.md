@@ -118,6 +118,9 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Profunctor: https://profunctor.io
 * SwissDev Jobs: https://swissdevjobs.ch
 
+## Resume Tools
+* ATSGuard: https://atsguard.com
+
 # Contributions
 
 If you want to contribute, make a pull request and if enough people thumbs up your PR or comment on it, it will be merged!
