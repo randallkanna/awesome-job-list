@@ -78,6 +78,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 ## Junior Dev Jobs
 * JrDevJobs: http://jrdevjobs.com
 * Stackoverflow Junior jobs: https://stackoverflow.com/jobs/junior-developer-jobs
+* Hanzilla Jobs: https://jobs.hanzilla.co/ - Canada-focused internships, co-ops, new grad, junior, and entry-level jobs across tech and other student-friendly fields.
 
 ## Women focused job boards!
 * Women Who Code: http://womenwhocode.com/jobs
