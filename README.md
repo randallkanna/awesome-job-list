@@ -118,6 +118,10 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Profunctor: https://profunctor.io
 * SwissDev Jobs: https://swissdevjobs.ch
 
+
+## Developer marketing jobs
+* Developer Marketing Jobs : https://github.com/Infrasity-Labs/developer-marketing-jobs
+
 # Contributions
 
 If you want to contribute, make a pull request and if enough people thumbs up your PR or comment on it, it will be merged!
