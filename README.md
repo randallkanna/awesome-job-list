@@ -104,6 +104,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Malt: https://www.malt.fr/
 
 ## Misc
+* [AimVantage](https://aimvantage.uk) - AI job preparation tool that generates a complete prep pack (company intel, CV fit score, tailored cover letter, mock interview questions) from your CV and a job URL in ~90 seconds. Free tools at aimvantage.uk/tools.
 * Muse: http://themuse.com/jobs
 * Tuts+: http://jobs.tutsplus.com
 * Krop: http://krop.com
