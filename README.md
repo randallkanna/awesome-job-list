@@ -117,6 +117,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * TripleByte: https://triplebyte.com
 * Profunctor: https://profunctor.io
 * SwissDev Jobs: https://swissdevjobs.ch
+* SpinHire (iGaming jobs): https://spinhire.io/en/
 
 # Contributions
 
