@@ -15,6 +15,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Hired: https://hired.com
 * The Ladders: https://www.theladders.com/
 * CrunchBoard: https://www.crunchboard.com/jobs
+* NextTechCareer: https://nexttechcareer.com/jobs
 
 ## Remote Sites
 * RemoteOk: http://remoteok.io/
