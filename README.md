@@ -32,6 +32,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * JustRemote: https://justremote.co/remote-developer-jobs
 * RemoteLeaf: https://remoteleaf.com
 * JsJobbs: https://jsjobbs.com/remote-javascript-jobs/
+* OpenRadar: https://openradar.fun
 
 ## Startups
 * AngelList: http://angel.co/jobs
