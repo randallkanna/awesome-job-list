@@ -113,6 +113,7 @@ A collection of awesome places to job hunt for people in tech. Compiled resource
 * Fullstack Job: http://fullstackjob.com
 * Authentic jobs: http://authenticjobs.com
 * Jobspresso: http://jobspresso.co
+* EuroJobs.ai: https://eurojobs.ai - 28,000+ IT jobs across Europe aggregated hourly from 21,000 employers' own career pages (Greenhouse, Lever, Ashby, Workable and others). Filters for country, remote, visa sponsorship and English-speaking teams.
 * Jobs in Europe: http://landing.jobs
 * TripleByte: https://triplebyte.com
 * Profunctor: https://profunctor.io
